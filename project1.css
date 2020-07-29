@@ -1,0 +1,297 @@
+body{padding:0px ;
+margin: 0px;}
+
+
+h1{
+    position: absolute;
+    padding: 3px;
+    float: left;
+    margin-left: 2%;
+    margin-top: 10px;
+    font-family: 'Alfa Slab One', cursive;
+    color: black;
+}
+span{
+    color: #ffffff;
+}
+ul{
+    width: auto;
+ 
+  
+}
+
+a:hover{
+    color: #F0c330;
+    transition: 0.5s;
+}
+
+
+
+.slide a {
+	color: #000;
+	font-size: 36px;
+}
+#content {
+	padding: 20px;
+	transition: margin-left 0.7s;
+	overflow: hidden;
+	width: 100%;
+}
+
+h3{
+
+    text-align: center;
+   border: black;
+   
+}
+.banner{
+height:35px ;
+background-color:lightgray;
+
+
+}
+h4{
+text-align: center;
+
+
+}
+.nav {
+	height: 100%;
+	width: 0;
+	position: fixed;
+	z-index: 1;
+	top: 0;
+	left: 0;
+	background-color: #111;
+	opacity: .9;
+	overflow-x: hidden;
+	padding-top: 60px;
+    transition: 0.7s;
+}
+
+.about{
+    width:987px;
+    height: 600px;
+}
+
+
+body{
+    background-image: url(hero_1.jpg);
+
+      height: 500px; 
+      background-position: center; 
+      background-repeat: no-repeat; 
+      background-size: cover;
+     
+
+
+    }
+    img{
+        position: relative;
+        top:-50px;
+        border-radius: 10px;
+        height: 225px;
+        width: 225px;
+    }
+    
+    li{
+        display: inline-block;
+        padding: 15px 30px;
+        padding-top: 100px;
+        padding-left: 250px;
+        position: relative;
+        top:-250px;
+       
+    }
+    .text{
+        position: relative;
+        right:-370px;
+        top:-220px;
+    
+    }
+    button{
+        background-color: orangered;
+        position: relative;
+        right:-850px;
+        top:-169px;
+        border-radius: 10px;
+        left:-125px;
+    }
+    h1{
+        text-align: center;
+        position: relative;
+        top:-150px;
+    }
+    .para2{
+        text-align: center;
+        text-size-adjust: medium;
+        position: relative;
+        top:-115px;
+    }
+    .slide a {
+        color: #000;
+        font-size: 36px;
+    }
+    .emd{  position: relative;
+           right:-500px ;
+           
+    }
+    .last{
+        position: relative;
+        left: -23px;
+        top:-33px;
+    }
+.Web-Design{
+height: 250px;
+width:250px;
+position: relative;
+top:-25px;
+background-color: whitesmoke;
+    }
+.Graphic-Design{
+        height: 250px;
+        width:250px;
+        background-color: whitesmoke;
+        position: relative;
+        right: -280px;
+        top:-289px;
+            }
+.Web-Apps{
+                height: 250px;
+                width:250px;
+                background-color: whitesmoke;
+                position: relative;
+                right:-550px;
+                top:-553px;
+                    }
+                    .Ecommerce{
+                height: 250px;
+                width:250px;
+                background-color: whitesmoke;
+                position: relative;
+                right:-850px;
+                top:-820px;
+
+                            }
+.footer{
+    position: relative;
+    bottom:-380px ;
+    height: 350px;
+    
+} 
+.footer-h1{
+    position: relative;
+    right: -250px;
+}   
+.the{
+    position: relative;
+    right: -150px;
+}     
+.h2-Web-Design{
+    position: relative;
+    top:-75px;
+    text-align: center;
+}  
+.Web-Design-p{
+    position: relative;
+    top:-55px;
+}  
+#Web-Design-icon{
+    position: relative;
+    top:-55px;
+    right: -85px;
+
+}  
+#Graphic-Design-icon{
+    position: relative;
+    
+    right: -85px;
+}  
+.Graphic-Design-h2{
+    text-align: center;
+}  
+.Graphic-Design-p{
+    position: relative;
+    bottom: -20px;
+}  
+.web-apps-h2{
+    position: relative;
+    text-align: center;
+}  
+#Web-Apps-icon{
+    position: relative;
+    right: -90px;
+    
+}    
+.Web-Apps-h{
+    position: relative;
+    bottom: -20px;
+}
+#Ecommerce-icon{
+    position: relative;
+    right: -90px;
+}
+.Ecommerce-h2{
+    position: relative;
+    text-align: center;
+}
+.Ecommerce-h{
+    position: relative;
+    bottom: -12px;  
+}
+.banner2{
+
+    background-color: whitesmoke;
+height:250px ;
+
+
+}
+.li2{
+       
+    display: inline-block;
+        padding: 15px 30px;
+        padding-top: 100px;
+        padding-left: 250px;
+        position: relative;
+        top:-250px;
+    }
+    .last-div{
+        position: relative;
+        height: 250px;
+        background-color: whitesmoke;
+        top:-750px;
+        left:-150px;
+    }
+    .about{
+        height: 250px;
+        width: 250px;
+    
+        position: relative;
+        right:-100px;
+    }
+    .part2{
+        height: 250px;
+        width: 250px;
+     
+        position: relative;
+        right: -490px;
+        top:-265px;
+    }
+    .links{
+
+        position: relative;
+        bottom: -150px;
+        left:-250px;
+    }
+    .part3{
+        height: 250px;
+        width: 250px;
+        
+        position: relative;
+        right:-890px;
+        top:-540px
+    }
+    .number2{
+        position: relative;
+        top: -350px;
+    }

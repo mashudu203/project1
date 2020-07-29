@@ -1,0 +1,49 @@
+body{
+background-image: url(hero_1.jpg);
+
+  height: 500px; 
+  background-position: center; 
+  background-repeat: no-repeat; 
+  background-size: cover;
+  
+}
+img{
+    border-radius: 10px;
+    height: 225px;
+    width: 225px;
+}
+
+li{
+    display: inline-block;
+    padding: 15px 30px;
+    padding-top: 100px;
+    padding-left: 250px;
+    position: relative;
+    top:-250px;
+   
+}
+.text{
+    position: relative;
+    right:-320px;
+    top:-220px;
+
+}
+button{
+    background-color: orangered;
+    position: relative;
+    right:-850px;
+    top:-169px;
+    border-radius: 10px;
+
+}
+h1{
+    text-align: center;
+    position: relative;
+    top:-150px;
+}
+.para2{
+    text-align: center;
+    text-size-adjust: medium;
+    position: relative;
+    top:-115px;
+}
